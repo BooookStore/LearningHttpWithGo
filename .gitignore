@@ -1,0 +1,5 @@
+# Ignore all
+*.exe
+*.dll
+*.so
+*.dylib
